@@ -1,0 +1,24 @@
+.heading {
+    text-align: center;
+}
+
+.good-font {
+    font-size: 20px;
+}
+
+#sub-btn {
+    margin: auto;
+    display: block;
+}
+
+.logo {
+    display: block;
+    margin: auto;
+    width: 15%;
+}
+
+@media screen and (max-width: 480px) {
+  .logo {
+    width: 35%;
+  }
+}
