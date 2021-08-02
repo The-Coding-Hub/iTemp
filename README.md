@@ -1,2 +1,2 @@
-#.iTemp
-###Temperature Finding Application using Python Flask.
+# .iTemp
+### Temperature Finding Application using Python Flask.
